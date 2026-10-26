@@ -1,6 +1,6 @@
 # Wise Goblin Logo
 
-The official Wise Goblin clan logo. Clan members can use it on mugs, shirts, hoodies, stickers, banners or anything else you like.
+The official Wise Goblin clan logo. Clan members can use it on mugs, shirts, hoodies, stickers and banners for personal and clan use. See [Who can use it](#who-can-use-it).
 
 <p align="center">
   <img src="logo/mockup-dark.png" alt="Wise Goblin logo on a dark background" width="420">
@@ -30,6 +30,16 @@ All files are PNGs with a transparent background. That's 20 × 24 in at 300 DPI,
 - **Mugs:** Pick a black mug or a mug with a black print area. Use the trimmed file.
 - **Stickers:** Ask for a black background or a black die-cut border so the linework shows.
 
-## License
+## Who can use it
 
-Licensed under [CC BY 4.0](LICENSE). Anyone may use, print and adapt the logo, as long as they credit the Wise Goblin clan.
+**© 2026 Reskilling. All rights reserved.** The logo isn't open source. See [LICENSE](LICENSE) for the full terms.
+
+**Clan members:** use it freely for personal merch, avatars and clan activities, and order prints from any print shop. You can resize it, crop it or change the background for printing.
+
+**Not allowed without permission:**
+- Selling merch with the logo
+- Editing or redrawing the art
+- Sharing the files with non-members
+- Using it with hateful, illegal or misleading content
+
+**Not a clan member?** Ask before using it. If you leave the clan or misuse the logo, your permission ends.
